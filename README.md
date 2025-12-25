@@ -9,8 +9,6 @@ The work presents a comparative study of two GAN-based underwater image enhancem
 - **Sea-Pix-GAN**
 - **MuLA-GAN**
 
-The repository is intended to support **transparency, reproducibility, and further research**, in line with the policies of *The Visual Computer* journal.
-
 ---
 
 ## Models Implemented
